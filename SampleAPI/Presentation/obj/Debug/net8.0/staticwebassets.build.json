@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "+eh42DbUEapPwItCKSFBPvc08xo0Yy52EPyMNLaN9DI=",
+  "Source": "Presentation",
+  "BasePath": "_content/Presentation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Presentation\\wwwroot",
+      "Source": "Presentation",
+      "ContentRoot": "M:\\University\\System Design\\Project\\SampleAPI\\Presentation\\wwwroot\\",
+      "BasePath": "_content/Presentation",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}

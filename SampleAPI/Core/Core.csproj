@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="EPPlus" Version="7.2.1" />
+		<PackageReference Include="HtmlSanitizer" Version="8.0.865" />
+		<PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.2.5" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.6" />
+		<PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+		<PackageReference Include="SharpCompress" Version="0.37.2" />
+		<PackageReference Include="System.Drawing.Common" Version="8.0.6" />
+		<PackageReference Include="WebMarkupMin.AspNetCore8" Version="2.16.1" />
+	</ItemGroup>
+
+</Project>

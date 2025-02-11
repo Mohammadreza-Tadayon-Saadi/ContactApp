@@ -1,0 +1,17 @@
+M:\University\System Design\Project\SampleAPI\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+M:\University\System Design\Project\SampleAPI\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+M:\University\System Design\Project\SampleAPI\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+M:\University\System Design\Project\SampleAPI\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+M:\University\System Design\Project\SampleAPI\Infrastructure\bin\Debug\net8.0\Core.dll
+M:\University\System Design\Project\SampleAPI\Infrastructure\bin\Debug\net8.0\Core.pdb
+M:\University\System Design\Project\SampleAPI\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+M:\University\System Design\Project\SampleAPI\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+M:\University\System Design\Project\SampleAPI\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+M:\University\System Design\Project\SampleAPI\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+M:\University\System Design\Project\SampleAPI\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+M:\University\System Design\Project\SampleAPI\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+M:\University\System Design\Project\SampleAPI\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+M:\University\System Design\Project\SampleAPI\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+M:\University\System Design\Project\SampleAPI\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+M:\University\System Design\Project\SampleAPI\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+M:\University\System Design\Project\SampleAPI\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll

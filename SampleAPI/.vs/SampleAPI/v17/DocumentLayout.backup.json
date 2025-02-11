@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\University\\System Design\\Project\\SampleAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFCD943-E041-44CC-9042-D0758C5814B4}|Presentation\\Presentation.csproj|m:\\university\\system design\\project\\sampleapi\\presentation\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFCD943-E041-44CC-9042-D0758C5814B4}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A277BC-E542-424A-BD44-6E2CA2DACFC3}|Application\\Application.csproj|m:\\university\\system design\\project\\sampleapi\\application\\cqrs\\contacts\\command\\deletecontactcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A277BC-E542-424A-BD44-6E2CA2DACFC3}|Application\\Application.csproj|solutionrelative:application\\cqrs\\contacts\\command\\deletecontactcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFCD943-E041-44CC-9042-D0758C5814B4}|Presentation\\Presentation.csproj|m:\\university\\system design\\project\\sampleapi\\presentation\\controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFCD943-E041-44CC-9042-D0758C5814B4}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A277BC-E542-424A-BD44-6E2CA2DACFC3}|Application\\Application.csproj|m:\\university\\system design\\project\\sampleapi\\application\\cqrs\\contacts\\command\\addcontactcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A277BC-E542-424A-BD44-6E2CA2DACFC3}|Application\\Application.csproj|solutionrelative:application\\cqrs\\contacts\\command\\addcontactcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A277BC-E542-424A-BD44-6E2CA2DACFC3}|Application\\Application.csproj|m:\\university\\system design\\project\\sampleapi\\application\\cqrs\\contacts\\command\\deletecontactcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A277BC-E542-424A-BD44-6E2CA2DACFC3}|Application\\Application.csproj|solutionrelative:application\\cqrs\\contacts\\command\\deletecontactcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A277BC-E542-424A-BD44-6E2CA2DACFC3}|Application\\Application.csproj|m:\\university\\system design\\project\\sampleapi\\application\\cqrs\\contacts\\command\\addcontactcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A277BC-E542-424A-BD44-6E2CA2DACFC3}|Application\\Application.csproj|solutionrelative:application\\cqrs\\contacts\\command\\addcontactcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A277BC-E542-424A-BD44-6E2CA2DACFC3}|Application\\Application.csproj|m:\\university\\system design\\project\\sampleapi\\application\\contracts\\services\\contactsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A277BC-E542-424A-BD44-6E2CA2DACFC3}|Application\\Application.csproj|solutionrelative:application\\contracts\\services\\contactsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A277BC-E542-424A-BD44-6E2CA2DACFC3}|Application\\Application.csproj|m:\\university\\system design\\project\\sampleapi\\application\\contracts\\interfaces\\icontactsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A277BC-E542-424A-BD44-6E2CA2DACFC3}|Application\\Application.csproj|solutionrelative:application\\contracts\\interfaces\\icontactsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GroupsController.cs",
+              "DocumentMoniker": "M:\\University\\System Design\\Project\\SampleAPI\\Presentation\\Controllers\\GroupsController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\GroupsController.cs",
+              "ToolTip": "M:\\University\\System Design\\Project\\SampleAPI\\Presentation\\Controllers\\GroupsController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\GroupsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAApwAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:00:51.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeleteContactCommandHandler.cs",
+              "DocumentMoniker": "M:\\University\\System Design\\Project\\SampleAPI\\Application\\CQRS\\Contacts\\Command\\DeleteContactCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\CQRS\\Contacts\\Command\\DeleteContactCommandHandler.cs",
+              "ToolTip": "M:\\University\\System Design\\Project\\SampleAPI\\Application\\CQRS\\Contacts\\Command\\DeleteContactCommandHandler.cs*",
+              "RelativeToolTip": "Application\\CQRS\\Contacts\\Command\\DeleteContactCommandHandler.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T12:59:08.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeleteContactCommand.cs",
+              "DocumentMoniker": "M:\\University\\System Design\\Project\\SampleAPI\\Application\\CQRS\\Contacts\\Command\\DeleteContactCommand.cs",
+              "RelativeDocumentMoniker": "Application\\CQRS\\Contacts\\Command\\DeleteContactCommand.cs",
+              "ToolTip": "M:\\University\\System Design\\Project\\SampleAPI\\Application\\CQRS\\Contacts\\Command\\DeleteContactCommand.cs",
+              "RelativeToolTip": "Application\\CQRS\\Contacts\\Command\\DeleteContactCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T12:58:27.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContactsServices.cs",
+              "DocumentMoniker": "M:\\University\\System Design\\Project\\SampleAPI\\Application\\Contracts\\Services\\ContactsServices.cs",
+              "RelativeDocumentMoniker": "Application\\Contracts\\Services\\ContactsServices.cs",
+              "ToolTip": "M:\\University\\System Design\\Project\\SampleAPI\\Application\\Contracts\\Services\\ContactsServices.cs",
+              "RelativeToolTip": "Application\\Contracts\\Services\\ContactsServices.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T12:56:13.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IContactsServices.cs",
+              "DocumentMoniker": "M:\\University\\System Design\\Project\\SampleAPI\\Application\\Contracts\\Interfaces\\IContactsServices.cs",
+              "RelativeDocumentMoniker": "Application\\Contracts\\Interfaces\\IContactsServices.cs",
+              "ToolTip": "M:\\University\\System Design\\Project\\SampleAPI\\Application\\Contracts\\Interfaces\\IContactsServices.cs",
+              "RelativeToolTip": "Application\\Contracts\\Interfaces\\IContactsServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T12:56:01.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddContactCommandHandler.cs",
+              "DocumentMoniker": "M:\\University\\System Design\\Project\\SampleAPI\\Application\\CQRS\\Contacts\\Command\\AddContactCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\CQRS\\Contacts\\Command\\AddContactCommandHandler.cs",
+              "ToolTip": "M:\\University\\System Design\\Project\\SampleAPI\\Application\\CQRS\\Contacts\\Command\\AddContactCommandHandler.cs",
+              "RelativeToolTip": "Application\\CQRS\\Contacts\\Command\\AddContactCommandHandler.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwB4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T12:49:45.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddContactCommand.cs",
+              "DocumentMoniker": "M:\\University\\System Design\\Project\\SampleAPI\\Application\\CQRS\\Contacts\\Command\\AddContactCommand.cs",
+              "RelativeDocumentMoniker": "Application\\CQRS\\Contacts\\Command\\AddContactCommand.cs",
+              "ToolTip": "M:\\University\\System Design\\Project\\SampleAPI\\Application\\CQRS\\Contacts\\Command\\AddContactCommand.cs",
+              "RelativeToolTip": "Application\\CQRS\\Contacts\\Command\\AddContactCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T12:49:08.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "M:\\University\\System Design\\Project\\SampleAPI\\Presentation\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\ContactsController.cs",
+              "ToolTip": "M:\\University\\System Design\\Project\\SampleAPI\\Presentation\\Controllers\\ContactsController.cs*",
+              "RelativeToolTip": "Presentation\\Controllers\\ContactsController.cs*",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAqwCsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T12:48:04.032Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

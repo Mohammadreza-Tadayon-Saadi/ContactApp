@@ -1,0 +1,17 @@
+M:\University\System Design\Project\SampleAPI\Application\bin\Debug\net8.0\Application.deps.json
+M:\University\System Design\Project\SampleAPI\Application\bin\Debug\net8.0\Application.dll
+M:\University\System Design\Project\SampleAPI\Application\bin\Debug\net8.0\Application.pdb
+M:\University\System Design\Project\SampleAPI\Application\bin\Debug\net8.0\Core.dll
+M:\University\System Design\Project\SampleAPI\Application\bin\Debug\net8.0\Infrastructure.dll
+M:\University\System Design\Project\SampleAPI\Application\bin\Debug\net8.0\Infrastructure.pdb
+M:\University\System Design\Project\SampleAPI\Application\bin\Debug\net8.0\Core.pdb
+M:\University\System Design\Project\SampleAPI\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+M:\University\System Design\Project\SampleAPI\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+M:\University\System Design\Project\SampleAPI\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+M:\University\System Design\Project\SampleAPI\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+M:\University\System Design\Project\SampleAPI\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+M:\University\System Design\Project\SampleAPI\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+M:\University\System Design\Project\SampleAPI\Application\obj\Debug\net8.0\Application.dll
+M:\University\System Design\Project\SampleAPI\Application\obj\Debug\net8.0\refint\Application.dll
+M:\University\System Design\Project\SampleAPI\Application\obj\Debug\net8.0\Application.pdb
+M:\University\System Design\Project\SampleAPI\Application\obj\Debug\net8.0\ref\Application.dll
